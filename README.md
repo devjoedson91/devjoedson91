@@ -4,8 +4,7 @@
 
 ![Joedson GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoedson91&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoedson91
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoedson91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minha Stack
 
