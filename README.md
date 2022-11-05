@@ -1,4 +1,4 @@
-### Olá! me chamo Joedson ✌️
+### Olá! sou o Joedson Ferreira ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joedson-ferreira-web-developer/)
 
@@ -20,4 +20,13 @@
      <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
      <img align="center" alt="postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
      <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</div><br/>
+
+Programação é a profissão que eu quero levar pra vida inteira, quero construir uma carreira de sucesso e ser referência no mercado.
+
+## Email para contato
+
+<div style="display: inline_block">
+    <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    joedson.devel@gmail.com
 </div>
