@@ -4,6 +4,9 @@
 
 ![Joedson GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoedson91&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoedson91
+)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Minha Stack
 
 <div style="display: inline_block"><br />
@@ -27,6 +30,6 @@ Programação é a profissão que eu quero levar pra vida inteira, quero constru
 ## Email para contato
 
 <div style="display: inline_block">
-    <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br />
     joedson.devel@gmail.com
 </div>
