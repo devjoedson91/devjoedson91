@@ -1,7 +1,5 @@
 ### Olá! Sou o Joedson, Desenvolvedor Web Full Stack, seja bem vindo(a) ao meu perfil Github ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joedson-ferreira-web-developer/)
-
 ![Joedson GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoedson91&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoedson91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,9 +24,10 @@
 
 Programação é a profissão que eu quero levar pra vida inteira, quero construir uma carreira de sucesso e ser referência no mercado.
 
-## Email para contato
+## Contatos
 
-<div style="display: inline_block">
+<div style="display: inline_block; gap: 5">
     <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br />
     joedson.devel@gmail.com
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joedson-ferreira-web-developer/)
 </div>
