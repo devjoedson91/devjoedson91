@@ -29,5 +29,5 @@ Programação é a profissão que eu quero levar pra vida inteira, quero constru
 <div style="display: inline_block; gap: 5">
     <img align="center" alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br />
     joedson.devel@gmail.com
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joedson-ferreira-web-developer/)
+    <img align="center" alt="email" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
 </div>
